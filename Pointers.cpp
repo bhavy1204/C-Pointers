@@ -1,4 +1,7 @@
 // POINTERS AND POLYMORPHISM
+
+// POINTERS:- they are variables which store address of a memeory block in memory , as their value. As their name suggest they point to a memory block.
+
 // #include <iostream>
 // using namespace std;
 // int main()
