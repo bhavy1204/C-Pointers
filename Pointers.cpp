@@ -565,3 +565,24 @@
 //     return 0;
 // }
 //--------------------------------------------------------------------------;
+// #include <iostream>
+// using namespace std;
+// void sum(int *a,int *b){
+//     temp=*a;
+//     *a=(*a)+(*b);
+//     if(temp>*b){
+//       *b=temp-(*b);
+//     }else{
+//       *b=(*b)-temp;
+//     };
+// };
+// int main(){
+//   int a,b;
+//   cout<<"Enter A :";cin>>a;
+//   cout<<"Enter B :";cin>>b;
+//   int *pa,*pb;
+//   sum(pa,pb);
+//   cout<<a<<endl;
+//   cout<<b<<endl;
+//   return 0;
+// }
